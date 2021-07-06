@@ -62,7 +62,7 @@ export default function todoList ({
             rowRenderer={rowRenderer}
             height={800}
             rowCount={rowCount}
-            rowHeight={50}
+            rowHeight={220}
             width={1200}
           />
         )}

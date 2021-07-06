@@ -26,10 +26,10 @@
       "build/"
     ],
     "mac": {
-      "target": ["dmg","zip"]
+      "target": ["dmg"]
     },
     "win": {
-      "target": ["nsis","zip"]
+      "target": ["nsis"]
     },
     "extends": null
   },
